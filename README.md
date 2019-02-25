@@ -1,2 +1,0 @@
-# BrickDestroyerJS
-Created with CodeSandbox
